@@ -16,6 +16,27 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/summary/";
           },
+        },{id: "nav-call-for-papers",
+          title: "Call for Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cfp/";
+          },
+        },{id: "nav-people",
+          title: "People",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-iccsa",
+          title: "ICCSA",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/iccsa.org";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -384,16 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-the-website-of-the-isd-workshop-at-icssa-2026-is-officially-launched",
+          title: 'The website of the ISD workshop at ICSSA 2026 is officially launched!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
