@@ -408,7 +408,9 @@ ninja.data = [{
             },},{id: "news-the-website-of-the-isd-workshop-at-icssa-2026-is-officially-launched",
           title: 'The website of the ISD workshop at ICSSA 2026 is officially launched!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
