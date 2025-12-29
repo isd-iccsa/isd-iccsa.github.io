@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-summary",
-          title: "Summary",
+  },{id: "nav-misson-amp-vision",
+          title: "Misson &amp; Vision",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/summary/";
+            window.location.href = "/mission_vision/";
           },
         },{id: "nav-call-for-papers",
           title: "Call for Papers",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cfp/";
+            window.location.href = "/https:/iccsa.org/call-for-papers";
           },
         },{id: "nav-people",
           title: "People",
@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/iccsa.org";
+            window.location.href = "/https:/iccsa.org/homepage";
           },
         },{id: "post-a-post-with-plotly-js",
         
