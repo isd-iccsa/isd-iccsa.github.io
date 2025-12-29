@@ -20,9 +20,7 @@ nav_order: 3
 
 - Ana Isabel Pereira - IPB, Portugal
 - Ary Henrique - UFT, Brazil
-- Cosimo Distante - CNR / University of Salento, Italy
 - Danielli Araújo Lima - IFTM, Brazil
-- Danielo Gonçalves Gomes - UFC, Brazil
 - Elloa Guedes - UEA, Brazil
 - Esteban Clua - UFF, Brazil
 - Felipe Leite - UFRRJ, Brazil
@@ -33,10 +31,12 @@ nav_order: 3
 - Jader Lugon Junior - IFF, Brazil
 - Jorge de Abreu Soares - CEFET/RJ, Brazil
 - Kennedy Fernandes - UFJF, Brazil
+- Leopoldo Lusquino Filho - Unesp, Brazil
 - Marcos Bacis Ceddia - UFRRJ, Brazil
 - Pablo Muñoz - UFOP, Brazil
+- Paula Odete Fernandes - IPB, Portugal
 - Pedro Henrique Gonzalez - UFRJ, Brazil
 - Pedro Nuno Moura - UNIRIO, Brasil
-- Wagner Rambaldi Telles - UFF, Brazil
-- Paula Odete Fernandes - IPB, Portugal
+- Rafael Lima de Carvalho - UFT, Brazil
 - Roberto Ivo Vaz - IPB, Portugal
+- Wagner Rambaldi Telles - UFF, Brazil
