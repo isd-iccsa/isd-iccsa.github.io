@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home",
-    title: "Home",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mission_vision/";
           },
-        },{id: "nav-call-for-papers",
-          title: "Call for Papers",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/https:/iccsa.org/call-for-papers";
-          },
         },{id: "nav-people",
           title: "People",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-call-for-papers",
+          title: "Call for Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/iccsa.org/call-for-papers";
           },
         },{id: "nav-iccsa",
           title: "ICCSA",
