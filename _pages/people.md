@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 #### Organizers
@@ -19,7 +19,9 @@ nav_order: 3
 
 - Ana Isabel Pereira - IPB, Portugal
 - Ary Henrique - UFT, Brazil
+- Cosimo Distante - CNR / University of Salento, Italy
 - Danielli Araújo Lima - IFTM, Brazil
+- Edcarllos Santos - UFSB, Brazil
 - Elloa Guedes - UEA, Brazil
 - Esteban Clua - UFF, Brazil
 - Felipe Leite - UFRRJ, Brazil

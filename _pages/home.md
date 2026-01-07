@@ -1,8 +1,6 @@
 ---
-layout: about
-title: Home
+layout: page
 permalink: /
-subtitle: "<b><u>Intelligent Sustainable Development: from Models to Real-World Impact</u></b>"
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -17,6 +15,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/banner.jpg" title="Banner" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 There is a growing interest in exploring how computational science and Artificial Intelligence (AI) can be harnessed to address complex environmental challenges. By integrating data-driven modeling, high-performance computing, and machine learning, ISD enables innovative computational approaches for environmental monitoring, forecasting, and decision support.
 {: style="text-align: justify;"}
